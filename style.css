@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#landing-page{
+    background-color: #e3f6f5;
+}
+
+body{
+    text-align: center;
+    font-size: 1.2em;
+    color: #653614;
+    font-family: monospace;
+}
+
+a{
+    color: #653614;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+
+.landing{
+    margin-top: 20%;
+}
+
+#main-line{
+    font-family: 'Pacifico', cursive;
+    font-size: 3rem;
+}
+
+#secondary-line{
+    font-family: 'Calligraffitti', cursive;
+    font-weight: normal;
+}
+
+.cloud{
+    position: absolute;
+}
+
+#cloud-top{
+    right: 30%;
+    top: 25%;
+}
+
+#logo{
+    position: absolute;
+    height: 80px;
+    width: 72px;
+    left: 5px;
+    top: 10px;
+}
+
+.nav-elements{
+    position: absolute;
+    top: 15px;
+    right: 15px;
+}
+
+span{
+    margin: 0 10px;
+}
+
+a{
+    margin-right: 10px;
+}
+
+.profile{
+    height: 200px;
+    margin-top: 60px;
+}
+
+.text{
+    margin-top: 30px;
+    padding: 0 200px;
+}
+
+.sub-heading{
+    font-family: 'Pacifico', cursive;
+    font-size: 2rem;
+    padding-top: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-decoration: underline;
+}
+
+.skill-section{
+    background-color: #e3f6f5;
+}
+
+.flex-container{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 60px;
+}
+
+.coding-logo{
+    width: 11%;
+    margin: 0 20px;
+}
+
+.coding-text{
+    width: 50%;
+}
+
+.contact{
+    margin: 0 15%;;
+}
+
+.btn{
+    margin: 50px;
+    background-color: #653614;
+    border: none;
+}
+
+.btn:hover{
+    background-color: #e3f6f5;
+    color: #653614;
+    border: none;
+}
+
+.footer{
+    background-color: #e3f6f5;
+    padding-bottom: 20px;
+}
+
+.last-line{
+    margin-top: 20px;
+    font-size: 0.8rem;
+    text-decoration: underline;
+}
